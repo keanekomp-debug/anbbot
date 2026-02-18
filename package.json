@@ -1,1 +1,5 @@
-{"name": "anbbot", "version": "1.0.0", "scripts": {"deploy": "gh-pages -d dist"}, "homepage": "https://keanekomp-debug.github.io/anbbot/","dependencies": {}, "devDependencies": {}}
+{"name": "anbbot", "version": "1.0.0", "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+}, "homepage": "https://keanekomp-debug.github.io/anbbot/","dependencies": {}, "devDependencies": {}}

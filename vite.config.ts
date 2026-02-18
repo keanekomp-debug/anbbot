@@ -5,8 +5,9 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
   return {
-    // This is the critical fix for GitHub Pages
-    base: '/anbbot/', 
+    // FIXED: This now matches your full repo name on GitHub
+    base: '/keanekomp-debug/anbbot/', 
+    
     server: {
       port: 3000,
       host: '0.0.0.0',

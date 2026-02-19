@@ -235,7 +235,7 @@ const App = () => {
             </h1>
             <div className={`glass p-12 rounded-[3.5rem] border ${isDark ? 'border-white/5' : 'border-slate-200 shadow-2xl'} space-y-8 relative overflow-hidden group`}>
               <p className={`text-xl md:text-2xl ${isDark ? 'text-slate-200' : 'text-slate-800'} leading-relaxed font-light italic`}>
-                "We aren’t merely measuring water; we’re giving rivers a voice. At 17, I saw the missing link: a global, transparent index powered by dense networks of inexpensive, intelligent sensors — impartial, always connected, resilient, self-reliant, and sustained by the very communities they serve."
+                "We aren’t merely measuring water; we’re giving rivers a voice. At 17, I saw the missing link: a global, transparent index powered by dense networks of inexpensive, intelligent sensors which are impartial, always connected, resilient, self-reliant, and sustained by the very communities they serve."
               </p>
               <div className="flex items-center gap-5">
                 <div className="w-16 h-16 rounded-2xl bg-orange-600 overflow-hidden border-2 border-white/20 shadow-2xl grayscale hover:grayscale-0 transition-all duration-700">

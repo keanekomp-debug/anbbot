@@ -367,7 +367,7 @@ const App = () => {
           <div className={`glass rounded-[4rem] border p-1 ${isDark ? 'border-white/5' : 'border-slate-200 shadow-2xl'} aspect-video overflow-hidden`}>
             <iframe 
               className="w-full h-full" 
-              src="https://www.youtube.com/embed/_4b3XGMdpD0?si=Pv9KyYAbdzA64HXc" 
+              src="https://www.youtube.com/embed/_KujJc9zQWrU?si=Pv9KyYAbdzA64HXc" 
               title="Rowbot Showcase" 
               frameBorder="0" 
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

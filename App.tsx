@@ -323,7 +323,7 @@ const App = () => {
           <div className="space-y-12">
             <div className="space-y-6">
               <h2 className="text-[11px] font-black text-orange-600 uppercase tracking-[0.5em]">System Architecture</h2>
-              <h3 className={`text-5xl md:text-6xl font-black leading-none ${isDark ? 'text-white' : 'text-slate-950'}`}>B-DISK v2.4<br />PROPOSED DESIGN.</h3>
+              <h3 className={`text-5xl md:text-6xl font-black leading-none ${isDark ? 'text-white' : 'text-slate-950'}`}>B-DISK <br />PROPOSED DESIGN.</h3>
             </div>
             
             <div className="flex flex-col gap-5">

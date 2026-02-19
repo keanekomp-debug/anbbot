@@ -212,6 +212,7 @@ const App = () => {
           <div className="flex items-center gap-4">
             <button onClick={() => setIsDark(!isDark)} className="p-3 rounded-full border border-orange-500/20 text-orange-600 hover:bg-orange-600/10 transition-all">
               {isDark ? <Sun size={18} /> : <Moon size={18} />}
+            </button>
             <a href="mailto:me@aditya.pt" className="hidden sm:block px-8 py-3 bg-orange-600 text-white rounded-full text-[10px] font-black uppercase tracking-[0.2em] hover:bg-orange-700 shadow-xl shadow-orange-950/20">
   Technical Paper
 </a>
